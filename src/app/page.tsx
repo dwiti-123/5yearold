@@ -2,7 +2,7 @@
 
 import { FormEvent, useEffect, useState } from "react";
 
-const EXAMPLES = ["Why is the sky blue?", "How does money work?", "Paste an article link"];
+const EXAMPLES = ["Why is the sky blue?", "How does money work?", "What is JEV?"];
 const LOADING_MESSAGES = [
   "Putting on our thinking cap…",
   "Swapping big words for little ones…",
